@@ -1,0 +1,30 @@
+﻿Estadística Descriptiva
+
+
+Equipo 2:
+Alan García Zermeño
+José de a Jesús Ramírez
+Ana Laura Ramírez Díaz
+
+
+
+
+Base de datos: https://www.indexmundi.com/
+
+
+-Population below poverty line
+-Death Rate
+-Hospital bed density
+-Physicians density
+-Life expectancy 
+
+
+Preguntas a responder:
+* ¿La esperanza de vida es mayor en los países menos pobres de américa?
+* ¿Hay escasez de hospitales en América? (Relación densidad de médicos / densidad de camas de hospital)
+* ¿Es más pobre la zona centro de América que la zona sur?
+* ¿Qué países tienen una tasa de densidad de médicos menor de 2.3?
+* Obteniendo cantidades confiables de densidad de camas y pobreza ¿Qué países cuentan con menores cantidades?
+* ¿Qué datos de esperanza de vida debemos tomar (debido a que varía con los años y condiciones del país)?
+* ¿Qué porcentaje de países están por encima del promedio mundial? Respecto a la esperanza de vida
+* ¿Cuál región de América (sur, norte, centro) tienen una menor tasa de mortalidad?
