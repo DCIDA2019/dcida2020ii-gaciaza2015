@@ -6,18 +6,13 @@ Alan García Zermeño
 José de a Jesús Ramírez
 Ana Laura Ramírez Díaz
 
-
-
-
 Base de datos: https://www.indexmundi.com/
-
 
 -Population below poverty line
 -Death Rate
 -Hospital bed density
 -Physicians density
 -Life expectancy 
-
 
 Preguntas a responder:
 * ¿La esperanza de vida es mayor en los países menos pobres de américa?
